@@ -9,10 +9,25 @@
     
 # Back-end
 ## Noppawit (62130500127)
-
+    - Done
+        - Created project structure
+        - Created model with DB connection
+        - Created repository
+        - Created path structure (REST API)
+    - Doing
+        - 
+    - Todo
+        - Exception handler
 # Database
 ## Noppawit (62130500127)
-
+    - Done
+        - Created ER diagram
+    - Doing
+        - improvising data
+        - Create script
+    - Todo
+        - Create view
+        - Create user role
 # Dev-Ops
 ## Pitchanon (62130500067)
 ### Complete
