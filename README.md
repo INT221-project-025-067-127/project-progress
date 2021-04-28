@@ -1,6 +1,12 @@
 # Font-end
 ## Nattanunkorn (62130500025)
+### Complete
+    - UI Design
+    
 
+### Inprogress
+    -build Views and Component 
+    
 # Back-end
 ## Noppawit (62130500127)
 
