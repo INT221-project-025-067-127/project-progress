@@ -15,7 +15,7 @@
         - Created repository
         - Created path structure (REST API)
     - Doing
-        - 
+        - Creating Service for REST API
     - Todo
         - Exception handler
 # Database
