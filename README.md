@@ -11,10 +11,10 @@
 ## Noppawit (62130500127)
     - Done
         - Created project structure
-        - Created model with DB connection
-        - Created repository
         - Created path structure (REST API)
     - Doing
+        - Created model with DB connection
+        - Created repository
         - Creating Service for REST API
     - Todo
         - Exception handler
@@ -22,12 +22,13 @@
 ## Noppawit (62130500127)
     - Done
         - Created ER diagram
-    - Doing
         - improvising data
         - Create script
+    - Doing
+        - Create user role
     - Todo
         - Create view
-        - Create user role
+        
 # Dev-Ops
 ## Pitchanon (62130500067)
 ### Complete
