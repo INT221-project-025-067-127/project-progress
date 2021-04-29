@@ -2,10 +2,13 @@
 ## Nattanunkorn (62130500025)
 ### Complete
     - UI Design
+    - code : component -> navbar 
+             component -> dropdown Navbar
+             view -> index
     
 
 ### Inprogress
-    -build Views and Component 
+    -code : view -> about.vue
     
 # Back-end
 ## Noppawit (62130500127)
@@ -28,13 +31,16 @@
         - Create user role
     - Todo
         - Create view
-        
-# Dev-Ops
+        - Create user role
+# Dev-Ops (29/4/21)
 ## Pitchanon (62130500067)
-### Complete
-    - Test make images in DB(phpmyadmin)
-
-### Inprogress
-    - Make Dockerfile & Docker-compose.yml in Font-end/Back-end
-    - Make Docker network
+    - Done
+        - Docker image 
+        - Dockerfile (Back-end)
+        - Dockercompose.yml (Back-end)
+    - Doing
+        - Docker compose
+        - Networking knowledge (diagram, ip, port)
+    - Todo
+        - Docker network configuration
     
