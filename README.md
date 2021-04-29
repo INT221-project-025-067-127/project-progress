@@ -30,10 +30,13 @@
         - Create user role
 # Dev-Ops
 ## Pitchanon (62130500067)
-### Complete
-    - Test make images in DB(phpmyadmin)
-
-### Inprogress
-    - Make Dockerfile & Docker-compose.yml in Font-end/Back-end
-    - Make Docker network
+    - Done
+        - Docker image 
+        - Dockerfile (Back-end)
+        - Dockercompose.yml (Back-end)
+    - Doing
+        - Docker compose
+        - Networking knowledge (diagram, ip, port)
+    - Todo
+        - Docker network configuration
     
