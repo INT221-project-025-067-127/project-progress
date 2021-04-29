@@ -2,10 +2,13 @@
 ## Nattanunkorn (62130500025)
 ### Complete
     - UI Design
+    - code : component -> navbar 
+             component -> dropdown Navbar
+             view -> index
     
 
 ### Inprogress
-    -build Views and Component 
+    -code : view -> about.vue
     
 # Back-end
 ## Noppawit (62130500127)
