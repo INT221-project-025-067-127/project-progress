@@ -1,4 +1,4 @@
-# Font-end
+# Front-end
 ## Nattanunkorn (62130500025)
 ### Complete
     - UI Design
@@ -30,15 +30,15 @@
     - Todo
         - Create view
         - Create user role
-# Dev-Ops (29/4/21)
+# Dev-Ops 
 ## Pitchanon (62130500067)
     - Done
-        - Docker image 
-        - Dockerfile (Back-end)
-        - Dockercompose.yml (Back-end)
+        - Docker image creation 
+        - Dockerfile (front-end/back-end)
+        - Dockercompose.yml  (front-end/back-end)
     - Doing
-        - Docker compose
         - Networking knowledge (diagram, ip, port)
     - Todo
-        - Docker network configuration
+        - Docker network 
+
     
