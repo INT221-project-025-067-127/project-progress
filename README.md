@@ -15,10 +15,11 @@
     - Done
         - Created project structure
         - Created path structure (REST API)
-    - Doing
         - Created model with DB connection
         - Created repository
         - Creating Service for REST API
+    - Doing
+        - Image passing
     - Todo
         - Exception handler
 # Database
