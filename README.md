@@ -6,7 +6,9 @@
     
 
 ### Inprogress
-    -code : Function in each page
+    -code : Responsive : Product,ViewProduct,EditProduct
+### Todo
+    -code : Fetch API
     
 # Back-end
 ## Noppawit (62130500127)
