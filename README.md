@@ -2,11 +2,11 @@
 ## Nattanunkorn (62130500025)
 ### Complete
     - UI Design
-    - code : build all web page success.
+    - code : dynamic style,component communicate,component,router
     
 
 ### Inprogress
-    -code : Responsive : Product,ViewProduct,EditProduct
+    -code : Responsive : ViewProduct,EditProduct
 ### Todo
     -code : Fetch API
     
