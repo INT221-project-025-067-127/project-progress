@@ -3,13 +3,13 @@
 ## Nattanunkorn (62130500025)
 ### Complete
     - UI Design
-    - code : dynamic style,component communicate,component,router
+    - code : dynamic style,component communicate,component,router,responsive
     
 
 ### Inprogress
-    -code : Responsive : ViewProduct,EditProduct
+   -code : Fetch API
+    
 ### Todo
-    -code : Fetch API
     
 # Back-end
 ## Noppawit (62130500127)
