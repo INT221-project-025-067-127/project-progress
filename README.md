@@ -42,7 +42,8 @@
         - Dockercompose.yml  (front-end/back-end)
     - Doing
         - Networking knowledge (diagram, ip, port)
-    - Todo
         - Docker network 
+
+       
 
     
