@@ -40,8 +40,9 @@
         - Docker image creation 
         - Dockerfile (front-end/back-end)
         - Dockercompose.yml  (front-end/back-end)
-    - Doing
         - Networking knowledge (diagram, ip, port)
+    - Doing
+        - Architecture diagram
         - Docker network 
 
        
