@@ -1,14 +1,15 @@
+## Link : http://52.163.222.28/
 # Front-end
 ## Nattanunkorn (62130500025)
 ### Complete
     - UI Design
-    - code : build all web page success.
+    - code : dynamic style,component communicate,component,router,responsive
     
 
 ### Inprogress
-    -code : Responsive : Product,ViewProduct,EditProduct
+   -code : Fetch API
+    
 ### Todo
-    -code : Fetch API
     
 # Back-end
 ## Noppawit (62130500127)
@@ -39,9 +40,11 @@
         - Docker image creation 
         - Dockerfile (front-end/back-end)
         - Dockercompose.yml  (front-end/back-end)
-    - Doing
         - Networking knowledge (diagram, ip, port)
-    - Todo
+    - Doing
+        - Architecture diagram
         - Docker network 
+
+       
 
     
