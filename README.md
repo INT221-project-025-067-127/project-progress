@@ -41,9 +41,10 @@
         - Dockerfile (front-end/back-end)
         - Dockercompose.yml  (front-end/back-end)
         - Networking knowledge (diagram, ip, port)
+        - Docker network 
     - Doing
         - Architecture diagram
-        - Docker network 
+
 
        
 
