@@ -18,10 +18,10 @@
         - Created model with DB connection
         - Created repository
         - Creating Service for REST API
-    - Doing
         - Image passing
-    - Todo
+    - Doing
         - Exception handler
+        
 # Database
 ## Noppawit (62130500127)
     - Done
@@ -30,9 +30,9 @@
         - Create script
     - Doing
         - Create user role
-    - Todo
         - Create view
-        - Create user role
+    - Todo
+        
 # Dev-Ops 
 ## Pitchanon (62130500067)
     - Done
